@@ -8,7 +8,7 @@ import datetime
 
 # Twilio Client
 account_sid = 'ACdf1086f0539977324e2dc952a855f358'
-auth_token = '0d4a4e6bab5cd687ee5cd779c7068fc9'
+auth_token = '8f626a93d781ad0a515af725abf3d4e6'
 twilio_client = Client(account_sid, auth_token)
 twilio_number = '+12792064935'
 alert_recipient_number = '+919783735904'
